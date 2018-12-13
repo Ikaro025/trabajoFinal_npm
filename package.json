@@ -1,6 +1,6 @@
 {
   "name": "trabajofinal_npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "paquete realizado como proyecto final de gestion de paquetes, para lo cual se uso npm.",
   "main": "index.html",
   "scripts": {
