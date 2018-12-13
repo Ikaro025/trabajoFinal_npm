@@ -1,0 +1,19 @@
+{
+  "name": "trabajofinal_npm",
+  "version": "1.0.0",
+  "description": "paquete realizado como proyecto final de gestion de paquetes, para lo cual se uso npm.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikaro025/trabajoFinal_npm.git"
+  },
+  "author": "Luis ALberto Zegarra Mamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikaro025/trabajoFinal_npm/issues"
+  },
+  "homepage": "https://github.com/Ikaro025/trabajoFinal_npm#readme"
+}

@@ -1,0 +1,4 @@
+# Jetbrains IDEs: PHPStorm / RubyMine  
+.idea
+.idea/workspace.xml
+node_modules
