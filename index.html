@@ -4,8 +4,8 @@
 <head>
 <title>MDWEB2 version Beta</title>
 <meta charset="utf-8" />
-<link rel="stylesheet" href="estilos.css" />
-<link rel="shortcut icon" href="/favicon.ico" />
+
+<script src="node_modules/jquery/dist/jquery.min.js" type="text/javascript"></script> 
 </head>
  
 <body>
@@ -24,6 +24,7 @@
       <a href="http://www.uatf.edu.bo">
         <img src="uatf.jpg" alt="banner de publicidad">
       </a> 
+	  <button id="MiBoton" type="button">Click Me!</button>
     <footer style="background:#cccccc">
       <h4>Avisos legales</h4>
       <a href="aviso-legal/">Política de cookies</a>
@@ -32,5 +33,11 @@
 	<hr>
         Creado por Luis Alberto Zegarra Mamani el 2018
     </footer>
+	<script>
+	$(document).ready(function() {
+    $('#MiBoton').on('click', function (e) {
+    alert("Prueba de mejora Positiva!!");
+  });
+});</script>
 </body>
 </html>
